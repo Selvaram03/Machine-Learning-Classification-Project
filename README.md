@@ -8,4 +8,5 @@ causes the churn and how it can be reduced in today’s highly competitive marke
 
 # Business Objective
 ● Build a predictive model to determine which customers are likely to churn (leave the bank).
+
 ● Given a set of customer record, determine the probabilities of churn for each customer.
